@@ -1,5 +1,5 @@
 public class HelloWorld{
 	public static void main{
-		System.out.println(("hw");
+		System.out.println(("Hello XIAOMI");
 	}
 }
