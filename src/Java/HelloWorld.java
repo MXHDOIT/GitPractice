@@ -1,3 +1,5 @@
 public class HelloWorld{
-	psvm{sout("hw")}
+	public static void main{
+		System.out.println(("hw");
+	}
 }
